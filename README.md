@@ -37,7 +37,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: shivasuji2004@gmail.com  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gayathri-devi-s-36339525a/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gayathri-devi-s-36339525a/) 
 - 💻 [GitHub](https://github.com/Gayathridevi-16)
 
 ---
