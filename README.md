@@ -36,8 +36,8 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: your-email@example.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gayathri-devi-s-36339525a/))  
+- 📧 Email: shivasuji2004@gmail.com  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gayathri-devi-s-36339525a/))  
 - 💻 [GitHub](https://github.com/Gayathridevi-16)
 
 ---
