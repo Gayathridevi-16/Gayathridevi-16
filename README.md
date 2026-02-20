@@ -24,13 +24,20 @@
 <h3>🌐 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gayathri-devi-s-36339525a/">
+  <a href="https://www.linkedin.com/in/gayathri-devi-s-36339525a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/gayathridevi_0404">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgayathridevi_0404&logo=leetcode&logoColor=yellow" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/gayathridevi_0405">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
   <a href="https://portfolio-wheat-seven-73.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
   </a>
+  
 </p>
 
 
@@ -68,7 +75,7 @@
 
 <td width="50%" align="center">
     <h3>:toolbox: Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,datocms" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,datocms,vercel" />
 </td>
 </tr>
 </table>
