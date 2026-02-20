@@ -102,6 +102,12 @@
 </div>
 
 ---
+## :bar_chart: GeeksforGeeks Stats
+
+<div align="center">
+  <br/>
+  <img src="https://gfgstatscard.vercel.app/gayathridevi_0405" />
+</div>
 
 ## :heart: Support Me
 
